@@ -1,10 +1,13 @@
 # I've joined the #100DaysOfCode Challenge
 
-## [Day 1: 16/02/2023](https://github.com/mukund1606/100DaysofCode/tree/main/Day1/README.md)
+## [Day 1: 16/02/2023](Day1/README.md)
 
-- ### Today's Progress
+- [✅] Started with the Python course on [Udemy](https://www.udemy.com)
+- [✅] Link to the course: [https://www.udemy.com/course/100-days-of-code/](https://www.udemy.com/course/100-days-of-code/)
+- [✅] Revised Some Basic Python Concepts
+- [✅] Completed the First 3 Sections of the Course
 
-  - [✅] Started with the Python course on [Udemy](https://www.udemy.com)
-  - [✅] Link to the course: [https://www.udemy.com/course/100-days-of-code/](https://www.udemy.com/course/100-days-of-code/)
-  - [✅] Revised some basic concepts of Python
-  - [✅] Completed the first 3 sections of the course
+## [Day 2: 1/02/2023](Day2/README.md)
+
+- [✅] Revised More Python Concepts
+- [✅] Completed the next 2 Sections of the Course (Section 4 to 5)
