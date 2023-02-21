@@ -26,3 +26,9 @@
 
 - [✅] Learnt about functions with parameters, arguments and made ceasar cipher program
 - [✅] Completed the Section 8 of the Course
+
+## [Day 6: 21/02/2023](Day6/README.md)
+
+- [✅] Learnt about dictionaries and nesting and made a program to store the secret auction data
+- [✅] Learnt about functions with outputs and returns and made a calculator program
+- [✅] Completed the Section 9 and 10 of the Course
