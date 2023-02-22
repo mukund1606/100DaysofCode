@@ -32,3 +32,10 @@
 - [✅] Learnt about dictionaries and nesting and made a program to store the secret auction data
 - [✅] Learnt about functions with outputs and returns and made a calculator program
 - [✅] Completed the Section 9 and 10 of the Course
+
+## [Day 7: 22/02/2023](Day7/README.md)
+
+- [✅] Learnt about Global and Local Variables
+- [✅] Made a Blackjack Game
+- [✅] Made a Number Guessing Game
+- [✅] Completed the Section 11 and 12 of the Course
