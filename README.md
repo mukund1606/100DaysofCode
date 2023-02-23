@@ -39,3 +39,13 @@
 - [✅] Made a Blackjack Game
 - [✅] Made a Number Guessing Game
 - [✅] Completed the Section 11 and 12 of the Course
+
+## [Day 8: 23/02/2023](Day8/README.md)
+
+- [✅] Learnt about Debugging and Error Handling
+- [✅] Made a High Low Game
+- [✅] Completed the Section 13 and 14 of the Course
+
+## [✅] Completed Beginner Part of the Course
+
+## [➕] Will Start Intermediate Part of the Course Tomorrow
