@@ -49,3 +49,9 @@
 ## [✅] Completed Beginner Part of the Course
 
 ## [➕] Will Start Intermediate Part of the Course Tomorrow
+
+## [Day 9: 23/02/2023](Day9/README.md)
+
+- [✅] Started with OOPS in Python
+- [✅] Made Coffee Machine Program with OOPS
+- [✅] Completed the Section 15 and 16 of the Course
