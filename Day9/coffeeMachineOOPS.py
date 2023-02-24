@@ -2,10 +2,10 @@ from menu import Menu, MenuItem
 from coffee_maker import CoffeeMaker
 from money_machine import MoneyMachine
 
+menu = Menu()
+coffee_maker = CoffeeMaker()
+money_machine = MoneyMachine()
 while True:
-    menu = Menu()
-    coffee_maker = CoffeeMaker()
-    money_machine = MoneyMachine()
     choice = input(f"What would you like? ({menu.get_items()}): ")
     if choice == "off":
         break
