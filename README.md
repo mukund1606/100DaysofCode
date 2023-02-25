@@ -55,3 +55,8 @@
 - [✅] Started with OOPS in Python
 - [✅] Made Coffee Machine Program with OOPS
 - [✅] Completed the Section 15 and 16 of the Course
+
+## [Day 10: 25/02/2023](Day10/README.md)
+
+- [✅] Learnt about Inheritance and made a Quiz Game
+- [✅] Completed the Section 17 and 18 of the Course
