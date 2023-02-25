@@ -58,5 +58,7 @@
 
 ## [Day 10: 25/02/2023](Day10/README.md)
 
-- [✅] Learnt about Inheritance and made a Quiz Game
+- [✅] Learnt more about OOPs
+- [✅] Made a Quiz Game with OOPS
+- [✅] Made a Hirst Painting with Turtle Graphics
 - [✅] Completed the Section 17 and 18 of the Course
