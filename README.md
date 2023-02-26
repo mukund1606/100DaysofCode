@@ -62,3 +62,11 @@
 - [✅] Made a Quiz Game with OOPS
 - [✅] Made a Hirst Painting with Turtle Graphics
 - [✅] Completed the Section 17 and 18 of the Course
+
+## [Day 11: 26/02/2023](Day11/README.md)
+
+- [✅] Learnt about Instance, State, Higher Order Functions
+- [✅] Made etch-a-sketch with Turtle Graphics
+- [✅] Made Turtle Race with Turtle Graphics
+- [✅] Made a Snake Game with Turtle Graphics
+- [✅] Completed the Section 19 to 21 of the Course
