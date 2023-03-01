@@ -70,3 +70,10 @@
 - [✅] Made Turtle Race with Turtle Graphics
 - [✅] Made a Snake Game with Turtle Graphics
 - [✅] Completed the Section 19 to 21 of the Course
+
+## [Day 12: 01/03/2023](Day12/README.md)
+
+- [✅] Finished with Turtle Graphics
+- [✅] Made Pong Game with Turtle Graphics
+- [✅] Made Turtle Crossing Game with Turtle Graphics
+- [✅] Completed the Section 22 to 23 of the Course
