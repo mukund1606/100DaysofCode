@@ -77,3 +77,58 @@
 - [✅] Made Pong Game with Turtle Graphics
 - [✅] Made Turtle Crossing Game with Turtle Graphics
 - [✅] Completed the Section 22 to 23 of the Course
+
+## [Day 13: 02/03/2023](Day13/README.md)
+
+- [✅] Learnt about Files, Directories and Paths
+- [✅] Completed the Section 24 of the Course
+
+## [Day 14: 03/03/2023](Day14/README.md)
+
+- [✅] Learnt about CSV Files and Pandas
+- [✅] Completed the Section 25 of the Course
+
+## [Day 15: 04/03/2023](Day15/README.md)
+
+- [✅] Learnt about List Comprehension and NATO Alphabets
+- [✅] Completed the Section 26 of the Course
+
+## [Day 16: 05/03/2023](Day16/README.md)
+
+- [✅] Learnt about GUI with Tkinter and made miles to km converter
+- [✅] Completed the Section 27 of the Course
+
+## [Day 17: 06/03/2023](Day17/README.md)
+
+- [✅] Learnt more about Tkinter, Dynamic Typing and Pomodoro Timer
+- [✅] Completed the Section 28 of the Course
+
+## [Day 18: 07/03/2023](Day18/README.md)
+
+- [✅] Build a Password Manager with Tkinter
+- [✅] Completed the Section 29 of the Course
+
+## [Day 19: 08/03/2023](Day19/README.md)
+
+- [✅] Learnt about Errors, Exceptions and JSON Data
+- [✅] Improved the Password Manager with JSON
+- [✅] Completed the Section 30 of the Course
+
+## [Day 20: 09/03/2023](Day20/README.md)
+
+- [✅] Made Capstone Project with Tkinter and CSV Files using Pandas
+- [✅] Completed the Section 31 of the Course
+
+## [Day 21: 10/03/2023](Day21/README.md)
+
+- [✅] Learnt about email, smtplib and datetime modules
+- [✅] Made a Birthday Wisher with email and datetime modules
+- [✅] Completed the Section 32 of the Course
+
+## [Day 22: 11/03/2023](Day22/README.md)
+
+- [✅] Started with APIs
+- [✅] Learnt about API Endpoints and API Parameters
+- [✅] Made a program to get random quotes from API
+- [✅] Made ISS Overhead Notifier with API
+- [✅] Completed the Section 33 of the Course
